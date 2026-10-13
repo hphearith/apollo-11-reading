@@ -134,8 +134,7 @@ async function P63SPOT3() {
       console.log("  Computer: Proceed, huh? Let's SEE IF HE'S LYING...");
       continue;
     }
-    // ENTER: return to +3, which is P63SPOT4. No re-check of the antenna bit:
-    // the crew can override the computer and go to ignition anyway.
+    // ENTER: I HOPE YOU KNOW WHAT YOU'RE DOING
     break;
   }
   P63SPOT4();
